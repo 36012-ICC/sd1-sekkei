@@ -1,5 +1,8 @@
 # Vivaldi 取扱説明書
 ## Vivaldiとは
+```
+https://vivaldi.com/ja/
+```
 [Vivaldi](https://vivaldi.com/ja/)はVivaldi Technologies社によって開発されているウェブブラウザで、
 Vivaldi Technologies社は**ノルウェー**と**アイスランド**に拠点を置くブラウザ企業です。
 
